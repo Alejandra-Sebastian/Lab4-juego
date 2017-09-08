@@ -1,0 +1,4 @@
+a. El valor del premio no coincide.
+b. Los valores del premio sí coinciden. La diferencia es que los de sesion mantienen los valores guardados
+   para cada navegador que lo abra, mientras que los de aplicación mantienen los valores guardados
+   independiente del navegador, es decir, mantiene unos mismos valores sin importar en donde se abra.

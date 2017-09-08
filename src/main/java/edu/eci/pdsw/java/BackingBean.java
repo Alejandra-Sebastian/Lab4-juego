@@ -17,7 +17,8 @@ import javax.faces.bean.*;
  */
 
 @ManagedBean(name = "beanEstadoAdivinanza")
-@SessionScoped
+//@SessionScoped
+@ApplicationScoped
 public class BackingBean {
     
     private Random randomGenerator;
